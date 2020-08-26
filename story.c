@@ -13,7 +13,11 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	    
-	    
+	bensSentence2();
+        printf("\n\n");
+
+        bensSentence3();
+        printf("\n\n");    
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
