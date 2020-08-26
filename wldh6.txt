@@ -1,0 +1,17 @@
+commit 92c384730665fd46d6c39139dae560a94a65929a
+Author: Wenyilu1990 <wldh6.mail.missouri.edu>
+Date:   Wed Aug 26 04:15:30 2020 -0500
+
+    creates new sentences
+
+commit 89f52d31640d676989e36167bc45c60197134482
+Author: Wenyilu1990 <wldh6.mail.missouri.edu>
+Date:   Wed Aug 26 03:59:29 2020 -0500
+
+    before make change to the make file
+
+commit dba8a43a7ae9eec73cf0f7c9fe00975cd7d8ff1e
+Author: Goggins, Sean Patrick <s@goggins.com>
+Date:   Tue Aug 11 14:00:19 2020 -0500
+
+    Initial commit

@@ -1,0 +1,6 @@
+4d61656 (HEAD -> master, origin/master, origin/HEAD) change some sentences
+33b5387 Merge branch 'wldh6'
+92c3847 (wldh6) creates new sentences
+89f52d3 before make change to the make file
+76f70f4 write new story
+dba8a43 (upstream/master) Initial commit
